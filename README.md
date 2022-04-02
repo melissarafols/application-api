@@ -24,3 +24,10 @@ Run thru Postman.
 
 5. Transaction History (GET http://localhost:8080/api/transaction-history/{accountPin})
 ![image](https://user-images.githubusercontent.com/69787232/160738089-36eb88ab-bdf5-4432-8891-8e021f2314f5.png)
+
+**Web Application: simple-banking**
+
+How to Run:
+
+1. SimpleBankingApplication.java <- run this to start the service locally for development purposes using embedded Tomcat
+2. Access homepage using the URL: http://localhost:9090/home
